@@ -1,0 +1,13 @@
+D:\GIT\Proyectoprofesor\PracticaTarjetaNetCoreAngular\Backend\Backend\Backend\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\GIT\Proyectoprofesor\PracticaTarjetaNetCoreAngular\Backend\Backend\Backend\bin\Debug\netcoreapp2.2\appsettings.json
+D:\GIT\Proyectoprofesor\PracticaTarjetaNetCoreAngular\Backend\Backend\Backend\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\GIT\Proyectoprofesor\PracticaTarjetaNetCoreAngular\Backend\Backend\Backend\bin\Debug\netcoreapp2.2\Backend.deps.json
+D:\GIT\Proyectoprofesor\PracticaTarjetaNetCoreAngular\Backend\Backend\Backend\bin\Debug\netcoreapp2.2\Backend.runtimeconfig.json
+D:\GIT\Proyectoprofesor\PracticaTarjetaNetCoreAngular\Backend\Backend\Backend\bin\Debug\netcoreapp2.2\Backend.runtimeconfig.dev.json
+D:\GIT\Proyectoprofesor\PracticaTarjetaNetCoreAngular\Backend\Backend\Backend\bin\Debug\netcoreapp2.2\Backend.dll
+D:\GIT\Proyectoprofesor\PracticaTarjetaNetCoreAngular\Backend\Backend\Backend\obj\Debug\netcoreapp2.2\Backend.csprojAssemblyReference.cache
+D:\GIT\Proyectoprofesor\PracticaTarjetaNetCoreAngular\Backend\Backend\Backend\obj\Debug\netcoreapp2.2\Backend.RazorAssemblyInfo.cache
+D:\GIT\Proyectoprofesor\PracticaTarjetaNetCoreAngular\Backend\Backend\Backend\obj\Debug\netcoreapp2.2\Backend.RazorAssemblyInfo.cs
+D:\GIT\Proyectoprofesor\PracticaTarjetaNetCoreAngular\Backend\Backend\Backend\obj\Debug\netcoreapp2.2\Backend.AssemblyInfoInputs.cache
+D:\GIT\Proyectoprofesor\PracticaTarjetaNetCoreAngular\Backend\Backend\Backend\obj\Debug\netcoreapp2.2\Backend.AssemblyInfo.cs
+D:\GIT\Proyectoprofesor\PracticaTarjetaNetCoreAngular\Backend\Backend\Backend\obj\Debug\netcoreapp2.2\Backend.RazorTargetAssemblyInfo.cache
